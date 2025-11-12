@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">rnActivityTracker</string>
+    <string name="accessibility_service_description">This service monitors user actions like app switches, screenshots, screen recording, and share events to provide activity tracking functionality.</string>
+    <string name="notification_channel_name">Activity Monitor</string>
+    <string name="notification_channel_description">Background activity monitoring service</string>
+    <string name="monitoring_notification_title">Activity Monitoring Active</string>
+    <string name="monitoring_notification_text">Tracking your app usage and actions</string>
 </resources>
